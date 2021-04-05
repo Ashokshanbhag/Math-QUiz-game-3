@@ -1,0 +1,32 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+
+    height: 120vh;
+    width: 100%;
+    background-image:url("BackgroundForWebsite2.png");
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    position: relative;
+
+}
+
+#output{
+
+    background: #02082e;
+    border-radius: 10px;
+    border-top: 10px solid #3c4fc7;
+    padding: 10px;
+    float: none;
+    text-align: left;
+
+}
+

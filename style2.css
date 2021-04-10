@@ -29,4 +29,23 @@
     text-align: left;
 
 }
+input[type="submit"]{
 
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 100px;
+    background: linear-gradient(45deg, #8174f2, #4937e6, #130491);
+    outline:black;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+
+}
+input[type="submit"]:hover{
+
+    cursor: pointer;
+    background: linear-gradient(45deg, #8174f2, #4937e6, #130491);
+    color: #000;
+
+}
